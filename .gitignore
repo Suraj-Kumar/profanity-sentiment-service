@@ -48,7 +48,6 @@ node_modules
 .node_repl_history
 
 # .env
-.env
 
 # Gradle ignores for using a gradle build
 .gradle
